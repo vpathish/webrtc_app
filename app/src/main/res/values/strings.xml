@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Webrtc App</string>
+    <string name="title_custom">Github MediaTest</string>
+    <string name="title_webrtc">WebRTC</string>
+    <string name="title_refresh">Refresh</string>
+    <string name="title_open">Open</string>
+    <string name= "camer_denied">Camera Permission Denied, Please Allow Permission to Proceed</string>
+</resources>
